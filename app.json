@@ -1,0 +1,23 @@
+{
+  "pages": [
+    "pages/focus/focus",
+    "pages/list/list",
+    "pages/dtails/dtails",
+    "pages/class/class",
+    "pages/search/search",
+    "pages/user/user"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "豆瓣电影推荐",
+    "navigationBarBackgroundColor": "#2C405A"
+  },
+  "permission": {
+    "scope.userLocation": {
+      "desc": "你的位置信息将用于定位本地影院"
+    }
+  },
+  "usingComponents": {},
+  "sitemapLocation": "sitemap.json"
+}
